@@ -83,7 +83,7 @@
         <div class="card">
           <div>
             <div class = "numbers">1,504</div>
-            <div class="cardName">Daily Views</div>
+            <div class="cardName">Test</div>
           </div>
           <div class="iconBx">
           <img src="images/eye.svg" width="50px" height="50px" alt="eye">
@@ -93,7 +93,7 @@
         <div class="card">
           <div>
             <div class = "numbers">1,504</div>
-            <div class="cardName">Daily Views</div>
+            <div class="cardName">Test</div>
           </div>
           <div class="iconBx">
           <img src="images/eye.svg" width="50px" height="50px" alt="eye">
@@ -103,7 +103,7 @@
         <div class="card">
           <div>
             <div class = "numbers">1,504</div>
-            <div class="cardName">Daily Views</div>
+            <div class="cardName">Test</div>
           </div>
           <div class="iconBx">
           <img src="images/eye.svg" width="50px" height="50px" alt="eye">
@@ -113,7 +113,7 @@
         <div class="card">
           <div>
             <div class = "numbers">1,504</div>
-            <div class="cardName">Daily Views</div>
+            <div class="cardName">Test</div>
           </div>
           <div class="iconBx">
           <img src="images/eye.svg" width="50px" height="50px" alt="eye">
@@ -126,16 +126,15 @@
         <div class="details">
           <div class="recentOrders">
             <div class="cardHeader">
-              <h2>Recent Orders</h2>
+              <h2>Riwayat Order</h2>
               <a href="#" class="btn">View All</a>
             </div>
             <table>
               <thead>
                 <tr>
-                  <td>Name</td>
-                  <td>Price</td>
-                  <td>Payment</td>
-                  <td>Name</td>
+                  <td>Nama</td>
+                  <td>Harga</td>
+                  <td>Pembayaran</td>
                 </tr>
               </thead>
             </table>    
